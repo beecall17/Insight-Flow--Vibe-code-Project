@@ -1,14 +1,5 @@
 # 🔍 InsightFlow – AI-Powered Media Analytics Platform
 
-**Author:** Gitika Poudel  
-**Student ID:** NPI000211  
-**Supervisor:** Mr. Prem Prasad Shrestha  
-**Programme:** BSc Information Technology  
-**Institution:** Asia Pacific University of Technology & Innovation (APU)  
-**Date:** December 2024  
-
----
-
 ## 📌 Project Overview
 
 InsightFlow is an **AI‑powered media analytics platform** designed to combat **information overload** in digital environments. It automates content analysis and delivers multi‑dimensional insights—sentiment, bias, topics, and trends—through an intuitive dashboard.
@@ -77,5 +68,3 @@ The system employs a **hybrid AI‑custom algorithm approach**, leveraging **Nat
 | User satisfaction (pilot)   | **4.3 / 5**       | ✅ Achieved |
 
 ---
-
-## 🗂️ Project Structure
